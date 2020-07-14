@@ -1,0 +1,13 @@
+B:\GitRepositories\processo\bin\Debug\netcoreapp3.1\processo.exe
+B:\GitRepositories\processo\bin\Debug\netcoreapp3.1\processo.deps.json
+B:\GitRepositories\processo\bin\Debug\netcoreapp3.1\processo.runtimeconfig.json
+B:\GitRepositories\processo\bin\Debug\netcoreapp3.1\processo.runtimeconfig.dev.json
+B:\GitRepositories\processo\bin\Debug\netcoreapp3.1\processo.dll
+B:\GitRepositories\processo\bin\Debug\netcoreapp3.1\processo.pdb
+B:\GitRepositories\processo\obj\Debug\netcoreapp3.1\processo.csprojAssemblyReference.cache
+B:\GitRepositories\processo\obj\Debug\netcoreapp3.1\processo.AssemblyInfoInputs.cache
+B:\GitRepositories\processo\obj\Debug\netcoreapp3.1\processo.AssemblyInfo.cs
+B:\GitRepositories\processo\obj\Debug\netcoreapp3.1\processo.csproj.CoreCompileInputs.cache
+B:\GitRepositories\processo\obj\Debug\netcoreapp3.1\processo.dll
+B:\GitRepositories\processo\obj\Debug\netcoreapp3.1\processo.pdb
+B:\GitRepositories\processo\obj\Debug\netcoreapp3.1\processo.genruntimeconfig.cache
